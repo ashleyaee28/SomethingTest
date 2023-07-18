@@ -15,6 +15,8 @@ struct ContentView: View {
                 .fontWeight(.semibold)
                 .foregroundColor(Color.blue)
             Text("hi")
+            
+            Image("cute_cat")
         }
         .padding()
     }
